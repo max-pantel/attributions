@@ -6,5 +6,7 @@ A repository to keep track of and give credit to all the creators whose media (s
 Credits and attributions for all assets used in my video essays.
 
 ## Videos
-- [Are Succession & Survivor the Same Show?](video-essay_succession.md)
-- [Hedra](video-essay_hedra.md)
+- [Are Succession & Survivor the Same Show?](video-essays/succession.md)
+- [Hedra](video-essays/hedra.md)
+
+# Music Videos
