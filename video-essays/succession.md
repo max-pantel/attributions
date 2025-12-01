@@ -1,7 +1,7 @@
 # Succession, όπως λέμε Survivor!
 
 **Published:** [7 Dec 2023]  
-**Watch:** [[Add YouTube link](https://www.youtube.com/watch?v=0nLMT379xiY)]
+**Watch:** [Watch](https://www.youtube.com/watch?v=0nLMT379xiY)
 
 ---
 
